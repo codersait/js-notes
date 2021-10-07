@@ -1,1 +1,9 @@
-
+.btn {
+  color: red;
+}
+.btn-block {
+  padding: auto;
+}
+.test {
+  color: aliceblue;
+}

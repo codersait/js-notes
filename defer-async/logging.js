@@ -9,3 +9,6 @@ window.addEventListener('load', function () {
 function logWithTime(message) {
   console.log(new Date() - startTime + 'ms - ' + message)
 }
+
+if (condition) {
+}
